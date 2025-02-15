@@ -21,3 +21,11 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:survey.survey_fill_form_start
 msgid "Start Survey"
 msgstr "Démarrer le questionnaire"
+
+#. module: survey
+#: model_terms:ir.ui.view,arch_db:survey.survey_fill_form_start
+msgid ""
+"<span class=\"o_survey_enter fw-bold text-muted ms-2 d-none d-md-inline\">or"
+" press Enter</span>"
+msgstr ""
+"<span class=\"o_survey_enter fw-bold text-muted ms-2 d-none d-md-inline\">ou appuyer sur Entrée</span>"
